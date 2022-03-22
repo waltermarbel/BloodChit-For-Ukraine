@@ -8,5 +8,11 @@ A blood chit is a notice carried by military personnel and addressed to any civi
 - More can be made if needed for different countries, only made a handful for now as with known volunteer countries
 - I have created a RedBubble page hosting them so if you dont want to print yourself you can get from there the link is [Redbubble](https://www.redbubble.com/people/CyberViking/)
 
+
+## Make Your Own
+if you want to make your own this is the phrase used, the theory is this should translate to other langauges, 
+
+"I AM (INSERT YOUR COUNTRY). I DO NOT SPEAK YOUR LANGUAGE, MISFORTUNE FORCES ME TO SEEK YOUR ASSISTANCE IN OBTAINING FOOD, SHELTER AND PROTECTION. PLEASE TAKE ME TO SOMEONE WHO WILL PROVIDE FOR MY SAFETY AND SEE THAT I AM RETURNED TO MY PEOPLE. I WILL DO MY BEST TO SEE THAT NO HARM COMES TO YOU. MY GOVERNMENT WILL REWARD YOU."
+
 ## Example USA
 ![US Blood Chit](https://github.com/TheCyberViking/BloodChit-For-Ukraine/blob/main/USA.png)
